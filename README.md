@@ -58,6 +58,6 @@ streamlit run app.py
 
 ## 🧑‍💻 Dibuat Oleh
 
-**Hilman**  
-Mahasiswa Teknik Komputer & Jaringan  
+Hilman
+Mahasiswa Teknik Informatika UNPAM 
 © 2025 by Hilman
